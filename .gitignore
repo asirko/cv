@@ -1,0 +1,4 @@
+node_modules/
+
+# je peux être amené à enregistrer des versions de mon CV ils ne sont pas utile pas la peine d'encombrer le répo pour rien
+*.pdf

@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"colo",
+				"color"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pri",
+				"principal"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ro",
+				"Roboto"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"rgb",
+				"rgba"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"m",
+				"marge-horizontale"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sa",
+				"sassFolder"
+			],
+			[
+				"sas",
+				"sass"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"use",
+				"userName"
+			],
+			[
+				"us",
+				"userName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cv.html",
+			"settings":
+			{
+				"buffer_size": 8197,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 547,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 314,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style/sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 5020,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "Package Control: Install Package",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alexandre/Desktop/CV",
+		"/C/Users/Alexandre/Desktop/CV/image",
+		"/C/Users/Alexandre/Desktop/CV/style",
+		"/C/Users/Alexandre/Desktop/CV/style/sass"
+	],
+	"file_history":
+	[
+		"/F/Programmation/WebRTC/getDevice/getDevice.html",
+		"/F/Programmation/WebRTC/getDevice/script.js",
+		"/C/Users/Alexandre/Desktop/CV/cv.sublime-project",
+		"/G/Jeux/sauvegarde warcraft/Maps/Test/WorldEditTestMap.w3x",
+		"/C/Users/Alexandre/Desktop/CV/style/sass/style.scss",
+		"/C/Users/Alexandre/Desktop/CV/cv.html",
+		"/C/Users/Alexandre/Desktop/CV/cv without picture.html",
+		"/C/Users/Alexandre/Desktop/CV/gulpfile.js",
+		"/C/Users/Alexandre/Desktop/CV/style/style.css",
+		"/F/Minecraft/FTBInfinityServer-2.4.2-1.7.10/ServerStart.bat",
+		"/F/Minecraft/server infinity/ServerStart.bat",
+		"/F/téléchargement/cv-template/CV-Template/style.css",
+		"/C/Users/Alexandre/Desktop/CV/package.json",
+		"/C/Users/Alexandre/Desktop/CV/style/style.scss",
+		"/F/Programmation/JS/chat-socket/server.js",
+		"/F/Programmation/JS/chat-socket/static/index.js",
+		"/F/Programmation/JS/chat-socket/static/style.css",
+		"/F/Programmation/JS/chat-socket/static/page.html",
+		"/F/Programmation/JS/chat-socket/style.css",
+		"/F/Programmation/JS/chat-socket/page.html",
+		"/F/Programmation/JS/chat-socket/client.js",
+		"/F/Minecraft/server infinity/version.json",
+		"/F/Minecraft/server infinity/FTBInstall.bat",
+		"/F/téléchargement/NogueGoder/dilatation_erosion.c",
+		"/F/Minecraft/server infinity/manifest.json",
+		"/F/Programmation/JS/angular-fullstack-gulp-test/package.json",
+		"/F/Programmation/JS/angular-fullstack-gulp-test/gulpfile.babel.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"github",
+			"      ",
+			"    \n",
+			"UML",
+			"section-paragraph-description",
+			");\n",
+			"');",
+			">\n",
+			"    \n",
+			"27",
+			";\n",
+			"$('#')",
+			";",
+			"');\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			";\n	",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cv.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4749,
+								4749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1512.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style/sass/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4197,
+								4197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2520.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cv.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
